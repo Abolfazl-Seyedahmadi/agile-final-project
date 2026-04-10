@@ -1,9 +1,20 @@
 ---
-name: agile-final-project
-about: Describe this issue template's purpose here.
-title: agile-final-project
-labels: ''
-assignees: ''
-Rename issue template to user-story.md
+name: User Story
+about: Create a user story
+title: "[USER STORY] "
+labels: enhancement
+assignees: ""
 ---
 
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
+
+---
+
+### Acceptance Criteria
+
+```gherkin
+Given [some context]  
+When [action is taken]  
+Then [expected result]  
